@@ -1,13 +1,13 @@
 # Html-Challange-2-As-7-Maravilhas-do-Mundo-Moderno
-Feito para praticar os codigos 
-<p> para criar paragrafos e escrever
-<ul> para criar uma lista não ordenada
-<li> para adicionar itens a uma lista ordenada ou não ordenada  
-&lt;img> para criar imagens
-&lt;header>Para definir o cabeçalho
-&lt;article>Para definir o artigo
-&lt;footer>Para definir o final do codigo
-
+Feito para praticar os codigos
+<ul>
+<li>&lt;p> para criar paragrafos e escrever</li>
+<li>&lt;ul> para criar uma lista não ordenada</li>
+<li>&lt;img> para criar imagens</li>
+<li>&lt;header>Para definir o cabeçalho</li>
+<li>&lt;article>Para definir o artigo</li>
+<li>&lt;footer>Para definir o final do codigo</li>
+</ul>
 
 ![image](https://github.com/user-attachments/assets/c6457807-e292-473d-93d5-ff5e22b87496)
 
